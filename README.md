@@ -6,6 +6,14 @@ Merhabalar  👋 ben Aysun Şan
 
 -Yeni teknolojileri yakından takip ediyorum.
 
+## Languages and Tolls:
+
+![Uploading image.png…]()
+
+
+
+
+
 
 
 
