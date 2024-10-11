@@ -7,8 +7,9 @@ Merhabalar  👋 ben Aysun Şan
 -Yeni teknolojileri yakından takip ediyorum.
 
 ## Languages and Tolls:
+![image](https://github.com/user-attachments/assets/7ba723a9-1291-4521-a0c2-6b139733dadd)
 
-![Uploading image.png…]()
+
 
 
 
